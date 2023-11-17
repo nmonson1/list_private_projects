@@ -5,3 +5,4 @@ Protein database work
 
 Mech interp puzzle generation
 
+word2vec game
